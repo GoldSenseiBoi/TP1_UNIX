@@ -1,8 +1,6 @@
 # Compte Rendu TP 01 : Installation Serveurs
 De Ibrahima Sory DIALLO
 
-## Partie 1 : 
-
 
 
 ## Partie 2 : Post-Installation
